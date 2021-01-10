@@ -9,51 +9,42 @@ redirect_from:
 
 {% include base_path %}
 
+You can also download my <a href="https://drive.google.com/open?id=1YYLEhIkchrcSeBanGsbH5snCZULFwyCJ" target="_blank">CV in PDF</a>.
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E., Northwestern Polytechnical University, 2012
+* M.S., ShanghaiTech University, 2016
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Research Intern
+  * KooLab, Kujiale.com
+  * Supervisor: Dr. Rui Tang and Professor Zihan Zhou
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2017 -- 2019: Research Assistant
+  * ShanghaiTech University
+  * Supervisor: Professor Shenghua Gao
 
-Publications
+Teaching Experience
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Spring 2018: Taching Assistant
+  * ShanghaiTech University
+  * CS272: Computer Vision II
+* Fall 2017: Teaching Assistant
+  * ShanghaiTech University
+  * CS172: Computer Vision I
+
+Service
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Workshop Co-Organizer
+  * Holistic Scene Structures for 3D Vision Workshop at ECCV 2020.
+* Conference Reviewer
+  * CVPR (2020, 2021)
+  * ECCV (2020)
+  * ICCV (2019)
+  * AAAI (2019, 2020)
+* Student Volunteer
+  * RACV (2016)
+  * ICLR (2020)
+
