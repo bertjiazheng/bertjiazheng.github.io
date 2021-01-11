@@ -13,11 +13,15 @@ You can also download my <a href="https://drive.google.com/open?id=1YYLEhIkchrcS
 
 Education
 ======
-* B.E., Northwestern Polytechnical University, 2012
 * M.S., ShanghaiTech University, 2016
+* B.E., Northwestern Polytechnical University, 2012
 
 Work Experience
 ======
+* 2020 -- Now: Research Engineer
+  * KooLab, Kujiale.com
+  * Supervisor: Dr. Rui Tang and Professor Zihan Zhou
+
 * Summer 2019: Research Intern
   * KooLab, Kujiale.com
   * Supervisor: Dr. Rui Tang and Professor Zihan Zhou
@@ -38,7 +42,7 @@ Teaching Experience
 Service
 ======
 * Workshop Co-Organizer
-  * Holistic Scene Structures for 3D Vision Workshop at ECCV 2020.
+  * Holistic Scene Structures for 3D Vision Workshop at ECCV 2020
 * Conference Reviewer
   * CVPR (2020, 2021)
   * ECCV (2020)
