@@ -45,10 +45,9 @@ Service
   * Holistic Scene Structures for 3D Vision Workshop at ECCV 2020
 * Conference Reviewer
   * CVPR (2020, 2021)
+  * ICCV (2019, 2021)
   * ECCV (2020)
-  * ICCV (2019)
   * AAAI (2019, 2020)
 * Student Volunteer
   * RACV (2016)
   * ICLR (2020)
-
