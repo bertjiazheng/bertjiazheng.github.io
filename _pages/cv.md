@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-You can also download my <a href="https://drive.google.com/open?id=1YYLEhIkchrcSeBanGsbH5snCZULFwyCJ" target="_blank">CV in PDF</a>.
-
 Education
 ======
 * M.S., ShanghaiTech University, 2016
@@ -20,15 +18,15 @@ Work Experience
 ======
 * 2020 -- Now: Research Engineer
   * KooLab, Kujiale.com
-  * Supervisor: Dr. Rui Tang and Professor Zihan Zhou
+  * Supervisor: Dr. Rui Tang and Prof. Zihan Zhou
 
 * Summer 2019: Research Intern
   * KooLab, Kujiale.com
-  * Supervisor: Dr. Rui Tang and Professor Zihan Zhou
+  * Supervisor: Dr. Rui Tang and Prof. Zihan Zhou
 
 * 2017 -- 2019: Research Assistant
   * ShanghaiTech University
-  * Supervisor: Professor Shenghua Gao
+  * Supervisor: Prof. Shenghua Gao
 
 Teaching Experience
 ======
@@ -42,7 +40,7 @@ Teaching Experience
 Service
 ======
 * Workshop Co-Organizer
-  * Holistic Scene Structures for 3D Vision Workshop at ECCV 2020
+  * [Holistic Scene Structures for 3D Vision Workshop](https://holistic-3d.github.io/eccv20) at ECCV 2020
 * Conference Reviewer
   * CVPR (2020, 2021)
   * ICCV (2019, 2021)
@@ -51,3 +49,6 @@ Service
 * Student Volunteer
   * RACV (2016)
   * ICLR (2020)
+
+
+You can also download my <a href="https://drive.google.com/open?id=1YYLEhIkchrcSeBanGsbH5snCZULFwyCJ" target="_blank">CV in PDF</a>.
