@@ -54,5 +54,5 @@ Service
   * AAAI Conference on Artificial Intelligence (AAAI): 2021, 2020
 
 * Student Volunteer
-  * International Conference on Learning Representations (ICLR 2020)
-  * Recent Advances on Computer Vision (RACV 2016)
+  * International Conference on Learning Representations (ICLR): 2020
+  * Recent Advances on Computer Vision (RACV): 2016

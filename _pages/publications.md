@@ -5,11 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  {% if site.author.semanticscholar %}
-    You can also find my articles on <a href="{{site.author.googlescholar}}">Google Scholar profile</a> or <a href="{{site.author.semanticscholar}}">Semantic Scholar profile</a>.
-  {% else %}
-    You can also find my articles on <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.
+{% if site.author.googlescholar and site.author.semanticscholar %}
+  You can also find my articles on <a href="{{site.author.googlescholar}}">Google Scholar profile</a> or <a href="{{site.author.semanticscholar}}">Semantic Scholar profile</a>.
 {% endif %}
 
 {% include base_path %}
