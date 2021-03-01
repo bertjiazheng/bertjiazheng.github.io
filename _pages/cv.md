@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can also download my <a href="https://drive.google.com/open?id=1YYLEhIkchrcSeBanGsbH5snCZULFwyCJ" target="_blank">CV in PDF</a>.
+
 Education
 ======
 * M.S., ShanghaiTech University, 2016
@@ -46,13 +48,11 @@ Service
   * [Holistic Scene Structures for 3D Vision Workshop](https://holistic-3d.github.io/eccv20) at ECCV 2020
 
 * Conference Reviewer
-  * CVPR (2020, 2021)
-  * ICCV (2019, 2021)
-  * ECCV (2020)
-  * AAAI (2019, 2020)
+  * IEEE Conference on Computer Vision and Pattern Recognition (CVPR): 2021, 2020
+  * IEEE Conference on Computer Vision (ICCV): 2021, 2019
+  * European Conference on Computer Vision (ECCV): 2020
+  * AAAI Conference on Artificial Intelligence (AAAI): 2021, 2020
 
 * Student Volunteer
-  * RACV (2016)
-  * ICLR (2020)
-
-You can also download my <a href="https://drive.google.com/open?id=1YYLEhIkchrcSeBanGsbH5snCZULFwyCJ" target="_blank">CV in PDF</a>.
+  * International Conference on Learning Representations (ICLR 2020)
+  * Recent Advances on Computer Vision (RACV 2016)
