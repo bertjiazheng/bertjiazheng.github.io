@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research engineer at the [KooLab](https://www.kujiale.com/gh/koolab/p/koolab#/home) in [ManyCore Tech](http://kujiale.com), working with [Dr. Rui Tang](https://www.linkedin.com/in/rui-tang-50973488/) and [Prof. Zihan Zhou](https://faculty.ist.psu.edu/zzhou/). I am interested in computer vision and machine learning, particularly in the areas of 3D Vision. My current research focuses on recovering 3D geometry from sensor data by utilizing shape regularities.
+I am currently a research engineer at [Manycore Tech (Kujiale.com)](http://kujiale.com), working with [Dr. Rui Tang](https://www.linkedin.com/in/rui-tang-50973488/) and [Prof. Zihan Zhou](https://faculty.ist.psu.edu/zzhou/). I am interested in computer vision and machine learning, particularly in the areas of 3D Vision.
 
-I obtained my master's degree from <a href="http://www.shanghaitech.edu.cn/" target="_blank">ShanghaiTech University</a> working with <a href="https://sist.shanghaitech.edu.cn/sist_en/2020/0814/c7582a54772/page.htm" target="_blank">Prof. Shenghua Gao</a>. Before than, I obtained my bachelor's degree from <a href="http://www.nwpu.edu.cn" target="_blank">Northwestern Polytechnical University</a>.
+I obtained my master's degree from [ShanghaiTech University](http://www.shanghaitech.edu.cn/) and [University of Chinese Academy of Sciences](https://www.ucas.edu.cn/), working with [Prof. Shenghua Gao](https://sist.shanghaitech.edu.cn/sist_en/2020/0814/c7582a54772/page.htm). Before that, I obtained my bachelor's degree from [Northwestern Polytechnical University](http://www.nwpu.edu.cn).
 
 What's New?
 ======

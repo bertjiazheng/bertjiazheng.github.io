@@ -13,7 +13,7 @@ You can also download my <a href="https://drive.google.com/open?id=1YYLEhIkchrcS
 
 Education
 ======
-* M.S., ShanghaiTech University, 2016
+* M.S., ShanghaiTech University & University of Chinese Academy of Sciences, 2016
   * Supervisor: Prof. Shenghua Gao
 
 * B.E., Northwestern Polytechnical University, 2012
@@ -22,12 +22,12 @@ Work Experience
 ======
 * Research Engineer
   * March 2020 -- Now
-  * KooLab, ManyCore Tech
+  * Manycore Tech
   * Advisor: Dr. Rui Tang and Prof. Zihan Zhou
 
 * Research Intern
   * Summer 2019
-  * KooLab, ManyCore Tech
+  * Manycore Tech
   * Advisor: Dr. Rui Tang and Prof. Zihan Zhou
 
 Teaching Experience
