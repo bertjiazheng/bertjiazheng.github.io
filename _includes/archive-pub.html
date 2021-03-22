@@ -49,26 +49,29 @@
     {% endif %}
 
     {% if post.additional %}<br>
-      {% if post.paperurl %}
-      <font size='3' color="LightSkyBlue"><a href=" {{ post.paperurl }} " >[pdf]</a></font>
+      {% if post.paper %}
+      <font size='3' color="LightSkyBlue"><a href=" {{ post.paper }} " >[pdf]</a></font>
       {% endif %}
-      {% if post.suppurl %}
-      <font size='3' color="LightSkyBlue"><a href=" {{ post.suppurl }} " >[supp]</a></font>
+      {% if post.supp %}
+      <font size='3' color="LightSkyBlue"><a href=" {{ post.supp }} " >[supp]</a></font>
       {% endif %}
-      {% if post.codeurl %}
-      <font size='3' color="LightSkyBlue"><a href=" {{ post.codeurl }} " >[code]</a></font>
+      {% if post.code %}
+      <font size='3' color="LightSkyBlue"><a href=" {{ post.code }} " >[code]</a></font>
       {% endif %}
-      {% if post.posterurl %}
-      <font size='3' color="LightSkyBlue"><a href=" {{ post.posterurl }} " >[poster]</a></font>
+      {% if post.data %}
+      <font size='3' color="LightSkyBlue"><a href=" {{ post.data }} " >[data]</a></font>
       {% endif %}
-      {% if post.slideurl %}
-      <font size='3' color="LightSkyBlue"><a href=" {{ post.slideurl }} " >[slide]</a></font>
+      {% if post.poster %}
+      <font size='3' color="LightSkyBlue"><a href=" {{ post.poster }} " >[poster]</a></font>
       {% endif %}
-      {% if post.videourl %}
-      <font size='3' color="LightSkyBlue"><a href=" {{ post.videourl }} " >[video]</a></font>
+      {% if post.slide %}
+      <font size='3' color="LightSkyBlue"><a href=" {{ post.slide }} " >[slide]</a></font>
       {% endif %}
-      {% if post.blogurl %}
-      <font size='3' color="LightSkyBlue"><a href=" {{ post.blogurl }} " >[blog]</a></font>
+      {% if post.video %}
+      <font size='3' color="LightSkyBlue"><a href=" {{ post.video }} " >[video]</a></font>
+      {% endif %}
+      {% if post.blog %}
+      <font size='3' color="LightSkyBlue"><a href=" {{ post.blog }} " >[blog]</a></font>
       {% endif %}
     
   {% endif %}
