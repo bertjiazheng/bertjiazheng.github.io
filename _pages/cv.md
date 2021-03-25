@@ -18,38 +18,20 @@ Education
 
 * B.E., Northwestern Polytechnical University, 2012
 
-Work Experience
-======
-* Research Engineer
-  * March 2020 -- Now
-  * Manycore Tech
-  * Advisor: Dr. Rui Tang and Prof. Zihan Zhou
-
-* Research Intern
-  * Summer 2019
-  * Manycore Tech
-  * Advisor: Dr. Rui Tang and Prof. Zihan Zhou
-
 Teaching Experience
 ======
-* Teaching Assistant
-  * Spring 2018
-  * ShanghaiTech University
-  * CS272: Computer Vision II
+* ShanghaiTech University
+  * Teaching Assistant of CS272 Computer Vision II, Spring 2018
+  * Teaching Assistant of CS172 Computer Vision I, Fall 2017
 
-* Teaching Assistant
-  * Fall 2017
-  * ShanghaiTech University
-  * CS172: Computer Vision I
-
-Service
+Community Service
 ======
 * Workshop Co-organizer
   * [Holistic Scene Structures for 3D Vision Workshop](https://holistic-3d.github.io/eccv20) at ECCV 2020
 
 * Conference Reviewer
-  * IEEE Conference on Computer Vision and Pattern Recognition (CVPR): 2021, 2020
-  * IEEE Conference on Computer Vision (ICCV): 2021, 2019
+  * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2021, 2020
+  * IEEE/CVF Conference on Computer Vision (ICCV): 2021, 2019
   * European Conference on Computer Vision (ECCV): 2020
   * AAAI Conference on Artificial Intelligence (AAAI): 2021, 2020
 

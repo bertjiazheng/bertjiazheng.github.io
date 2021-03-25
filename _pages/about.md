@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research engineer at [Manycore Tech (Kujiale.com)](http://kujiale.com). Before that, I obtained my master's degree from [ShanghaiTech University](http://www.shanghaitech.edu.cn/) and [University of Chinese Academy of Sciences](https://www.ucas.edu.cn/) under the supervision of [Prof. Shenghua Gao](https://sist.shanghaitech.edu.cn/sist_en/2020/0814/c7582a54772/page.htm). I received my bachelor's degree from [Northwestern Polytechnical University](http://www.nwpu.edu.cn). I have also been very fortunate enough to work with [Prof. Zihan Zhou](https://faculty.ist.psu.edu/zzhou/).
+I am currently a research engineer at [Manycore (Kujiale)](http://kujiale.com). Before that, I obtained my master's degree from [ShanghaiTech University](http://www.shanghaitech.edu.cn/) and [University of Chinese Academy of Sciences](https://www.ucas.edu.cn/) under the supervision of [Prof. Shenghua Gao](https://sist.shanghaitech.edu.cn/sist_en/2020/0814/c7582a54772/page.htm). I received my bachelor's degree from [Northwestern Polytechnical University](http://www.nwpu.edu.cn). I have also been very fortunate enough to work with [Prof. Zihan Zhou](https://faculty.ist.psu.edu/zzhou/).
 
 What's New?
 ======
