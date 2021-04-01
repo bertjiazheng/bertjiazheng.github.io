@@ -10,5 +10,4 @@ paper: https://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_Single-Image_Pi
 supp: https://openaccess.thecvf.com/content_CVPR_2019/supplemental/Yu_Single-Image_Piece-Wise_Planar_CVPR_2019_supplemental.pdf
 code: https://github.com/svip-lab/PlanarReconstruction
 poster: https://drive.google.com/open?id=1th86ZZfoJ_6dLTcpOXfIpzUj7vfFVxMi
-slide: https://drive.google.com/file/d/1YaEQ_PQg_H-0rDSrA1tDFSWOK8ZkGnBv/view?usp=drive_open
 ---
