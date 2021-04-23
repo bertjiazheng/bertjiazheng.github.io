@@ -2,21 +2,24 @@
 main:
   - title: "Publications"
     url: /publications/
+  
+  - title: "Talks"
+    url: /talks/
 
   - title: "Collaborators"
-    url: /collaborators/    
+    url: /collaborators/
 
   # - title: "Teaching"
-  #   url: /teaching/    
-    
+  #   url: /teaching/
+
   # - title: "Portfolio"
   #   url: /portfolio/
-        
+
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
+
   - title: "CV"
     url: /cv/
-    
+
   # - title: "Guide"
   #   url: /markdown/
