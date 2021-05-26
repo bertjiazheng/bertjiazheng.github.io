@@ -7,11 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research engineer at [Manycore (Kujiale)](http://kujiale.com). Before that, I obtained my master's degree from [ShanghaiTech University](http://www.shanghaitech.edu.cn/) and [University of Chinese Academy of Sciences](https://www.ucas.edu.cn/) and my bachelor's degree from [Northwestern Polytechnical University](http://www.nwpu.edu.cn). I have also been very fortunate enough to work with [Prof. Shenghua Gao](https://sist.shanghaitech.edu.cn/sist_en/2020/0814/c7582a54772/page.htm) and [Prof. Zihan Zhou](https://faculty.ist.psu.edu/zzhou/).
-
-I am interested in computer vision and machine learning, particularly in the area of 3D Vision. My recent research focuses on recovering 3D geometry from sensor data by utilizing shape regularities.
-
-We are hiring research engineers and interns to work on computer vision, machine learning and related projects. Please drop me an email with your CV if interested.
+I am currently a research engineer at Manycore Research Institute led by [Dr. Zihan Zhou](https://faculty.ist.psu.edu/zzhou/). We are conducting cutting-edge research in computer vision and machine learning. Please drop me an email with your CV if interested. Before that, I obtained my master's degree from [ShanghaiTech University](http://www.shanghaitech.edu.cn/) and [University of Chinese Academy of Sciences](https://www.ucas.edu.cn/), where I was supervised by [Dr. Shenghua Gao](https://sist.shanghaitech.edu.cn/sist_en/2020/0814/c7582a54772/page.htm). I received my bachelor's degree from [Northwestern Polytechnical University](http://www.nwpu.edu.cn). I have also been very fortunate enough to work with [Prof. Yi Ma](https://people.eecs.berkeley.edu/~yima/) at ShanghaiTech University.
 
 What's New?
 ======
