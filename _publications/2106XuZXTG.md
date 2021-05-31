@@ -9,4 +9,5 @@ additional: true
 paper: https://arxiv.org/abs/2103.17022
 supp: https://drive.google.com/file/d/1SWlUhr2uIiU1J90RovOEIBWFdvaeW9dt/view?usp=sharing
 code: https://github.com/bluestyle97/PNVS
+poster: https://drive.google.com/file/d/1GjSHStTPui4TV40cCXVKePoIobVS_398/view?usp=sharing
 ---
