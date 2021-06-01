@@ -10,6 +10,7 @@ author_profile: true
 I have gotten to work with some wonderful collaborators.
 
 ### Interns @ Manycore (Kujiale)
+* Binzhi Dong, Zhejiang University
 * [Zixin Zhang](https://github.com/Elsa-zhang), University of Electronic Science and Technology of China
 
 ### University collaborators
