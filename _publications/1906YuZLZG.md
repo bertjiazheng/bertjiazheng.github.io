@@ -8,6 +8,7 @@ author: Zehao Yu*, <strong>Jia Zheng</strong>*, Dongze Lian, Zihan Zhou, Shenghu
 additional: true
 paper: https://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_Single-Image_Piece-Wise_Planar_3D_Reconstruction_via_Associative_Embedding_CVPR_2019_paper.pdf
 supp: https://openaccess.thecvf.com/content_CVPR_2019/supplemental/Yu_Single-Image_Piece-Wise_Planar_CVPR_2019_supplemental.pdf
+arxiv: https://arxiv.org/abs/1902.09777
 code: https://github.com/svip-lab/PlanarReconstruction
 poster: https://drive.google.com/open?id=1th86ZZfoJ_6dLTcpOXfIpzUj7vfFVxMi
 ---

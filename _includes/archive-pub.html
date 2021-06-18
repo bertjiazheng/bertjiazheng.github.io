@@ -55,6 +55,9 @@
       {% if post.supp %}
       <font size='3' color="LightSkyBlue"><a href=" {{ post.supp }} " >[supp]</a></font>
       {% endif %}
+      {% if post.arxiv %}
+      <font size='3' color="LightSkyBlue"><a href=" {{ post.arxiv }} " >[arXiv]</a></font>
+      {% endif %}
       {% if post.code %}
       <font size='3' color="LightSkyBlue"><a href=" {{ post.code }} " >[code]</a></font>
       {% endif %}

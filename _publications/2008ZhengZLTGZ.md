@@ -10,6 +10,7 @@ link: https://structured3d-dataset.org/
 code: https://github.com/bertjiazheng/Structured3D
 paper: https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540494.pdf
 supp: https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540494-supp.pdf
+arxiv: https://arxiv.org/abs/1908.00222
 slide: https://drive.google.com/file/d/1XCFaW6E2zNxyLC_qPLH_exLI2aDrhR4v/view?usp=sharing
 video: https://youtu.be/OKDrVdme-Qc
 blog: https://zhuanlan.zhihu.com/p/77555645
