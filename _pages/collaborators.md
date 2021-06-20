@@ -10,7 +10,7 @@ author_profile: true
 I have gotten to work with some wonderful collaborators.
 
 ### Interns @ Manycore (Kujiale)
-* Yifan Zhu, Nanjing University of Aeronautics and Astronautics
+* [Yifan Zhu](https://github.com/StevenZzz07), Nanjing University of Aeronautics and Astronautics
 * [Kehan Wang](http://kehanwang.codes), University of California, Berkeley
 * Binzhi Dong, Zhejiang University
 * [Zixin Zhang](https://github.com/Elsa-zhang), University of Electronic Science and Technology of China
