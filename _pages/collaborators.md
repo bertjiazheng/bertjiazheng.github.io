@@ -10,6 +10,7 @@ author_profile: true
 I have gotten to work with some wonderful collaborators.
 
 ### Interns @ Manycore (Kujiale)
+* Shang Chai, University of Science and Technology of China
 * [Yifan Zhu](https://github.com/StevenZzz07), Nanjing University of Aeronautics and Astronautics
 * [Kehan Wang](http://kehanwang.codes), University of California, Berkeley
 * Binzhi Dong, Zhejiang University

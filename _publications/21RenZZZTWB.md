@@ -1,6 +1,0 @@
----
-title: "MINERVAS: Massive INterior EnviRonments VirtuAl Synthesis"
-collection: publications
-year: '2021'
-author: Haocheng Ren, Hao Zhang, <strong>Jia Zheng</strong>, Jiaxiang Zheng, Rui Tang, Rui Wang, Hujun Bao
----
