@@ -13,6 +13,7 @@ Before that, I obtained my master's degree from [ShanghaiTech University](http:/
 
 What's New?
 ======
+* **2021-07**: We release an online platform, [MINERVAS](https://coohom.github.io/MINERVAS/), for massive data synthesis.
 * **2021-03**: Two papers are accepted to [CVPR 2021](http://cvpr2021.thecvf.com/).
 * **2020-07**: The [Structured3D dataset](https://structured3d-dataset.org) is accepted to [ECCV 2020](https://eccv2020.eu/).
 * **2020-05**: We are organizing the [Holistic 3D Vision Challenges](https://holistic-3d.github.io/eccv20/challenge.html) including the general room layout estimation and street view plane detection. The winning teams will get a prize and an opportunity to present at the [Holistic Scene Structures for 3D Vision Workshop](https://holistic-3d.github.io/eccv20) at [ECCV 2020](https://eccv2020.eu/)!
