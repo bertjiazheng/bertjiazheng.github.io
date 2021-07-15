@@ -10,6 +10,8 @@ author_profile: true
 I have gotten to work with some wonderful collaborators.
 
 ### Interns @ Manycore Tech (Kujiale)
+* Yufan Zhao, Tongji University
+* Zhenyan Liu, Tongji University
 * Xiaokai Chen, The Chinese University of Hong Kong, Shenzhen
 * Shang Chai, University of Science and Technology of China
 * [Yifan Zhu](https://github.com/StevenZzz07), Nanjing University of Aeronautics and Astronautics
