@@ -9,7 +9,7 @@ author_profile: true
 
 I have gotten to work with some wonderful collaborators.
 
-### Interns @ Manycore Tech (Kujiale)
+### Interns @ Manycore Tech Inc. (Kujiale)
 * Yufan Zhao, Tongji University
 * Zhenyan Liu, Tongji University
 * Xiaokai Chen, The Chinese University of Hong Kong, Shenzhen
@@ -20,6 +20,7 @@ I have gotten to work with some wonderful collaborators.
 * [Zixin Zhang](https://github.com/Elsa-zhang), University of Electronic Science and Technology of China
 
 ### University collaborators
+* [Haocheng Ren](https://github.com/swordigo1995), Zhejiang University
 * [Jiale Xu](http://www.jialexu.com), ShanghaiTech University
 * [Cheng Yang](https://github.com/CYang0515), University of Electronic Science and Technology of China
 * [Zhaoyuan Yin](https://github.com/zyy-cn), Hunan University
