@@ -14,7 +14,7 @@ I have gotten to work with some wonderful collaborators.
 * Zhenyan Liu, Tongji University
 * Xiaokai Chen, The Chinese University of Hong Kong, Shenzhen
 * [Shang Chai](http://home.ustc.edu.cn/~chaishang/), University of Science and Technology of China
-* [Yifan Zhu](https://github.com/StevenZzz07), Nanjing University of Aeronautics and Astronautics
+* [Yifan Zhu](https://stevenzzz07.github.io/), Nanjing University of Aeronautics and Astronautics
 * [Kehan Wang](http://kehanwang.codes), University of California, Berkeley
 * [Zixin Zhang](https://github.com/Elsa-zhang), University of Electronic Science and Technology of China
 
