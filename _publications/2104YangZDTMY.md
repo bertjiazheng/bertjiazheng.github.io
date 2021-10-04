@@ -1,8 +1,9 @@
 ---
 title: "Learning to Reconstruct 3D Non-Cuboid Room Layout from a Single RGB Image"
 collection: publications
-conf: 'arXiv preprint'
-year: '2021'
+conf: 'IEEE/CVF Winter Conference on Applications of Computer Vision'
+conf_shortname: 'WACV'
+year: '2022'
 author: Cheng Yang*, <strong>Jia Zheng</strong>*, Xili Dai, Rui Tang, Yi Ma, Xiaojun Yuan
 additional: true
 paper: https://arxiv.org/abs/2104.07986
