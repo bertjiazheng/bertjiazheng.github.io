@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jia Zheng's site"
+title                    : "Jia Zheng's Homepage"
 title_separator          : "-"
 name                     : &name "Jia Zheng"
 description              : &description "Welcome to my site."
