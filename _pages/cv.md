@@ -13,10 +13,16 @@ You can also download my <a href="https://drive.google.com/open?id=1YYLEhIkchrcS
 
 Education
 ======
-* M.S., ShanghaiTech University & University of Chinese Academy of Sciences, 2016
-  * Supervisor: Prof. Shenghua Gao
+* M.S., ShanghaiTech University & University of Chinese Academy of Sciences, 2016--2020
+  * Advisor: Prof. Shenghua Gao
+* B.E., Northwestern Polytechnical University, 2012--2016
 
-* B.E., Northwestern Polytechnical University, 2012
+Employment
+======
+* Manycore Tech Inc. (Kujiale)
+  * Senior Research Engineer, 2021--Present
+  * Research Engineer, 2020--2021
+  * Research Intern, Summer 2019
 
 Teaching Experience
 ======
@@ -30,10 +36,10 @@ Community Service
   * [Holistic Scene Structures for 3D Vision Workshop](https://holistic-3d.github.io/eccv20) at ECCV 2020
 
 * Conference Reviewer
-  * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2022, 2021, 2020
-  * IEEE/CVF Conference on Computer Vision (ICCV): 2021, 2019
+  * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2020--2022
+  * IEEE/CVF Conference on Computer Vision (ICCV): 2019, 2021
   * European Conference on Computer Vision (ECCV): 2020
-  * AAAI Conference on Artificial Intelligence (AAAI): 2022, 2021, 2020
+  * AAAI Conference on Artificial Intelligence (AAAI): 2020--2022
 
 * Student Volunteer
   * International Conference on Learning Representations (ICLR): 2020
