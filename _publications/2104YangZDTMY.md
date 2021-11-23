@@ -9,4 +9,5 @@ additional: true
 paper: https://arxiv.org/abs/2104.07986
 supp: https://drive.google.com/file/d/1J9CC8ofxt03r2s4w5bGDZLlSL7Ke8oeK/view?usp=sharing
 code: https://github.com/Cyang0515/NonCuboidRoom
+video: https://youtu.be/AzhOrXsPS3k
 ---
