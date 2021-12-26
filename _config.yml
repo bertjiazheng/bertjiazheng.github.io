@@ -14,7 +14,7 @@ description              : &description "Welcome to my site."
 url                      : https://bertjiazheng.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bertjiazheng/bertjiazheng.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jia Zheng"
   avatar           : "profile.png"
-  bio              : "Computer Vision Researcher"
+  bio              : "Engineer & Researcher"
   location         : "Hangzhou, China"
   employer         : "Manycore Tech Inc. (Kujiale)"
   pubmed           :
