@@ -6,8 +6,9 @@ conf_shortname: 'WACV'
 year: '2022'
 author: Cheng Yang*, <strong>Jia Zheng</strong>*, Xili Dai, Rui Tang, Yi Ma, Xiaojun Yuan
 additional: true
-paper: https://arxiv.org/abs/2104.07986
-supp: https://drive.google.com/file/d/1J9CC8ofxt03r2s4w5bGDZLlSL7Ke8oeK/view?usp=sharing
+arxiv: https://arxiv.org/abs/2104.07986
+paper: https://openaccess.thecvf.com/content/WACV2022/papers/Yang_Learning_To_Reconstruct_3D_Non-Cuboid_Room_Layout_From_a_Single_WACV_2022_paper.pdf
+supp: https://openaccess.thecvf.com/content/WACV2022/supplemental/Yang_Learning_To_Reconstruct_WACV_2022_supplemental.pdf
 code: https://github.com/Cyang0515/NonCuboidRoom
 video: https://youtu.be/AzhOrXsPS3k
 ---
