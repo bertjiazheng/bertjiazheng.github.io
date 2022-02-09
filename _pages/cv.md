@@ -36,7 +36,7 @@ Community Service
   * [Holistic Scene Structures for 3D Vision Workshop](https://holistic-3d.github.io/eccv20) at ECCV 2020
 
 * Conference Reviewer
-  * ACM Special Interest Group on Computer Graphics and Interactive Techniques (SIGGRAPH): 2022
+  * ACM SIGGRAPH: 2022
   * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2020--2022
   * IEEE/CVF Conference on Computer Vision (ICCV): 2019, 2021
   * European Conference on Computer Vision (ECCV): 2020
