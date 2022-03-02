@@ -16,7 +16,7 @@ I have gotten to work with some wonderful collaborators.
 * Xiaokai Chen, CUHK-Shenzhen
 * [Shang Chai](http://home.ustc.edu.cn/~chaishang/), USTC
 * [Yifan Zhu](https://stevenzzz07.github.io/), NUAA
-* [Kehan Wang](http://kehanwang.codes), UC Berkeley
+* [Kehan Wang](https://jason-khan.github.io/), UC Berkeley
 * Binzhi Dong, ZJU
 * [Zixin Zhang](https://github.com/Elsa-zhang), UESTC
 

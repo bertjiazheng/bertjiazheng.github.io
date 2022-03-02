@@ -13,6 +13,7 @@ Before that, I obtained my master's degree from [ShanghaiTech University](http:/
 
 What's New?
 ======
+* **2022-02**: Faceformer is accepted to [CVPR 2022](https://cvpr2022.thecvf.com/). It is the first data-driven approach to identify face loops from a single line drawing.
 * **2021-10**: NonCuboidRoom is accepted to [WACV 2022](https://wacv2022.thecvf.com/).
 * **2021-07**: We release an online platform, [MINERVAS](https://coohom.github.io/MINERVAS/), for massive data synthesis.
 * **2021-03**: Two papers are accepted to [CVPR 2021](http://cvpr2021.thecvf.com/).
@@ -20,6 +21,6 @@ What's New?
 * **2020-05**: We are organizing the [Holistic 3D Vision Challenges](https://holistic-3d.github.io/eccv20/challenge.html) including the general room layout estimation and street view plane detection. The winning teams will get a prize and an opportunity to present at the [Holistic Scene Structures for 3D Vision Workshop](https://holistic-3d.github.io/eccv20) at [ECCV 2020](https://eccv2020.eu/)!
 * **2020-02**: One paper is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
 * **2019-08**: We release a large photo-realistic dataset, [Structured3D dataset](http://structured3d-dataset.org), for data-driven structured 3D reconstruction!
-* **2019-06**: Our paper on planar reconstruction is invited to be presented at the [3D Scene Generation Workshop](https://3dscenegen.github.io/) at [CVPR 2019](http://cvpr2019.thecvf.com/).
+* **2019-06**: Our paper on planar reconstruction is invited to present at the [3D Scene Generation Workshop](https://3dscenegen.github.io/) at [CVPR 2019](http://cvpr2019.thecvf.com/).
 * **2019-02**: Three papers are accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
 * **2017-07**: We get the second place of [WebVision Challenge](https://www.vision.ee.ethz.ch/webvision/2017/workshop.html) on Image Classification Task (Top University Team).
