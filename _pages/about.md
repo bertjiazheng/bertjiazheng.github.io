@@ -7,9 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior research engineer in Manycore Research Institute at [Manycore Tech Inc.](https://www.kujiale.com/), where I work with [Dr. Zihan Zhou](https://zihan-z.github.io/). We are conducting cutting-edge research in computer vision and machine learning. Please [drop me an email](mailto:jiajia@qunhemail.com) with your CV if interested.
+Research Interests
+======
+My research interests include computer vision and deep learning, espeically in the area of 3D vision. Please [drop me an email](mailto:jiajia@qunhemail.com) with your CV if interested.
 
-Before that, I obtained my master's degree from [ShanghaiTech University](http://www.shanghaitech.edu.cn/) and [University of Chinese Academy of Sciences](https://www.ucas.edu.cn/), where I was supervised by [Prof. Shenghua Gao](https://sist.shanghaitech.edu.cn/sist_en/2020/0814/c7582a54772/page.htm). I received my bachelor's degree from [Northwestern Polytechnical University](http://www.nwpu.edu.cn). I have also been very fortunate enough to work with [Prof. Yi Ma](https://people.eecs.berkeley.edu/~yima/) at ShanghaiTech University.
+Biography
+======
+I'm currently a senior research engineer in Manycore Research Institute at [Manycore Tech Inc.](https://www.kujiale.com/), working with [Dr. Zihan Zhou](https://zihan-z.github.io/). I obtained my master's degree from [ShanghaiTech University](http://www.shanghaitech.edu.cn/) (A newly established university in 2013) and [University of Chinese Academy of Sciences](https://www.ucas.edu.cn/), where I was supervised by [Prof. Shenghua Gao](https://sist.shanghaitech.edu.cn/sist_en/2020/0814/c7582a54772/page.htm). I received my bachelor's degree from [Northwestern Polytechnical University](http://www.nwpu.edu.cn). I have also been very fortunate enough to work with [Prof. Yi Ma](https://people.eecs.berkeley.edu/~yima/) at ShanghaiTech University.
 
 What's New?
 ======
