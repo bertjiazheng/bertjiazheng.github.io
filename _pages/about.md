@@ -11,7 +11,7 @@ I'm currently a senior research engineer in Manycore Research Institute at [Many
 
 Research Interests
 ======
-My research interests include computer vision and deep learning, especially in the area of 3D vision. We are working cutting-edge computer vision problems. Please [drop me an email](mailto:jiajia@qunhemail.com) with your CV if interested.
+My research interests include computer vision and deep learning, especially in the area of 3D vision. We are hiring research engineers and interns, working on cutting-edge computer vision problems. Please [drop me an email](mailto:jiajia@qunhemail.com) with your CV if interested.
 
 What's New?
 ======
