@@ -23,6 +23,6 @@ I have gotten to work with some wonderful collaborators.
 ### University collaborators
 
 * [Haocheng Ren](https://github.com/swordigo1995), ZJU
-* [Jiale Xu](http://www.jialexu.com), ShanghaiTech
+* [Jiale Xu](https://github.com/bluestyle97), ShanghaiTech
 * [Cheng Yang](https://github.com/CYang0515), UESTC
 * [Zhaoyuan Yin](https://github.com/zyy-cn), HNU
