@@ -15,14 +15,13 @@ I have gotten to work with some wonderful collaborators.
 * Zhenyan Liu, Tongji
 * Xiaokai Chen, CUHK-Shenzhen
 * [Shang Chai](http://home.ustc.edu.cn/~chaishang/), USTC
-* [Yifan Zhu](https://stevenzzz07.github.io/), NUAA
+* [Yifan Zhu](https://stevenzzz07.github.io/), now algorithm engineer at Horizon Robotics
 * [Kehan Wang](https://jason-khan.github.io/), UC Berkeley
-* Binzhi Dong, ZJU
 * [Zixin Zhang](https://github.com/Elsa-zhang), UESTC
 
 ### University collaborators
 
-* [Haocheng Ren](https://github.com/swordigo1995), ZJU
+* [Haocheng Ren](https://github.com/swordigo1995), Zhejiang JU
 * [Jiale Xu](https://github.com/bluestyle97), ShanghaiTech
-* [Cheng Yang](https://github.com/CYang0515), UESTC
+* [Cheng Yang](https://github.com/CYang0515), now algorithm engineer at Hikvision
 * [Zhaoyuan Yin](https://github.com/zyy-cn), HNU
