@@ -11,13 +11,13 @@ I have gotten to work with some wonderful collaborators.
 
 ### Interns @ Manycore Tech Inc. (Kujiale)
 
-* Yufan Zhao, Tongji
-* Zhenyan Liu, Tongji
-* Xiaokai Chen, CUHK-Shenzhen
-* [Shang Chai](http://home.ustc.edu.cn/~chaishang/), USTC
-* [Yifan Zhu](https://stevenzzz07.github.io/), now algorithm engineer at Horizon Robotics
-* [Kehan Wang](https://jason-khan.github.io/), UC Berkeley
-* [Zixin Zhang](https://github.com/Elsa-zhang), UESTC
+* Yufan Zhao, Summer 2021, now graduate student at Tongji
+* Zhenyan Liu, Summer 2021, now graduate student at Tongji
+* Xiaokai Chen, Summer 2021, CUHK-Shenzhen
+* [Shang Chai](http://home.ustc.edu.cn/~chaishang/), Summer 2021, now graduate student at USTC
+* [Yifan Zhu](https://stevenzzz07.github.io/), Summer 2021, now algorithm engineer at Horizon Robotics
+* [Kehan Wang](https://jason-khan.github.io/), Summer 2021, now graduate student at UC Berkeley
+* [Zixin Zhang](https://github.com/Elsa-zhang), Summer 2021, now graduate student at UESTC
 
 ### University collaborators
 
