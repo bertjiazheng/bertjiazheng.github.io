@@ -9,18 +9,20 @@ author_profile: true
 
 I have gotten to work with some wonderful collaborators.
 
-### Interns @ Manycore Tech Inc.
+### Manycore Tech Inc.
 
-* Luoxi Jing, Summer 2022, PKU
-* Zhuoxuan Peng, Summer 2022, HKUST (Guangzhou)
-* Xiaoyang Hou, Summer 2022, UCAS
-* Yufan Zhao, Summer 2021, Tongji
-* Zhenyan Liu, Summer 2021, Tongji
-* Xiaokai Chen, Summer 2021, CUHK (Shenzhen)
-* [Shang Chai](http://home.ustc.edu.cn/~chaishang/), Summer 2021, USTC
-* [Yifan Zhu](https://stevenzzz07.github.io/), Summer 2021, NUAA
-* [Kehan Wang](https://jason-khan.github.io/), Summer 2021, UC Berkeley
-* [Zixin Zhang](https://github.com/Elsa-zhang), Summer 2021, UESTC
+* Interns 2022
+    * Luoxi Jing, PKU
+    * Zhuoxuan Peng, HKUST (Guangzhou)
+    * Xiaoyang Hou, UCAS
+* Interns 2021
+    * Yufan Zhao, Tongji
+    * Zhenyan Liu, Tongji
+    * Xiaokai Chen, CUHK (Shenzhen)
+    * [Shang Chai](http://home.ustc.edu.cn/~chaishang/), USTC
+    * [Yifan Zhu](https://stevenzzz07.github.io/), NUAA
+    * [Kehan Wang](https://jason-khan.github.io/), UC Berkeley
+    * [Zixin Zhang](https://github.com/Elsa-zhang), UESTC
 
 ### University collaborators
 
