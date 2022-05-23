@@ -11,18 +11,18 @@ redirect_from:
 
 You can also download my <a href="https://drive.google.com/open?id=1YYLEhIkchrcSeBanGsbH5snCZULFwyCJ" target="_blank">CV in PDF</a>.
 
-Education
-======
-* M.S., ShanghaiTech University & University of Chinese Academy of Sciences, 2016--2020
-  * Advisor: Prof. Shenghua Gao
-* B.E., Northwestern Polytechnical University, 2012--2016
-
 Employment
 ======
 * Manycore Tech Inc. (Kujiale)
   * Senior Research Engineer, 2021--Present
   * Research Engineer, 2020--2021
   * Research Intern, Summer 2019
+
+Education
+======
+* M.S., ShanghaiTech University & University of Chinese Academy of Sciences, 2016--2020
+  * Advisor: Prof. Shenghua Gao
+* B.E., Northwestern Polytechnical University, 2012--2016
 
 Teaching Experience
 ======

@@ -13,7 +13,7 @@ I have gotten to work with some wonderful collaborators.
 
 * Interns 2022
     * Luoxi Jing, PKU
-    * Zhuoxuan Peng, HKUST (Guangzhou)
+    * Zhuoxuan Peng, HKUST
     * Xiaoyang Hou, UCAS
 * Interns 2021
     * Yufan Zhao, Tongji
