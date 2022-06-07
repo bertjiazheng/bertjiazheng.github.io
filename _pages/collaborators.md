@@ -12,7 +12,6 @@ I have gotten to work with some wonderful collaborators.
 ### Manycore Tech Inc.
 
 * Interns 2022
-    * Luoxi Jing, PKU
     * Zhuoxuan Peng, HKUST
     * Xiaoyang Hou, UCAS
 * Interns 2021
