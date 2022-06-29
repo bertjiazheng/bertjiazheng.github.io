@@ -12,11 +12,10 @@ I have gotten to work with some wonderful collaborators.
 ### Manycore Tech Inc.
 
 * Interns 2022
-    * Zhuoxuan Peng, HKUST
+    * Wentao Hu, SYSU
+    * [Zhuoxuan Peng](https://github.com/Shimmer93), HKUST
     * Xiaoyang Hou, UCAS
 * Interns 2021
-    * Yufan Zhao, Tongji
-    * Zhenyan Liu, Tongji
     * Xiaokai Chen, CUHK (Shenzhen)
     * [Shang Chai](http://home.ustc.edu.cn/~chaishang/), USTC
     * [Yifan Zhu](https://stevenzzz07.github.io/), NUAA
