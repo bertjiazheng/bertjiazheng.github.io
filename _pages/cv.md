@@ -40,6 +40,7 @@ Community Service
   * IEEE/CVF Conference on Computer Vision (ICCV): 2019, 2021
   * European Conference on Computer Vision (ECCV): 2020, 2022
   * ACM SIGGRAPH: 2022
+  * IEEE/CVF Winter Conference on Applications of Computer Vision (WACV): 2023
   * International Conference on 3D Vision (3DV): 2022
   * AAAI Conference on Artificial Intelligence (AAAI): 2020--2022
 
