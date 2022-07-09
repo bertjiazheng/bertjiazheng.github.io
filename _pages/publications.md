@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-pub.html %}
+  {% include archive-single-pub.html %}
 {% endfor %}
 
 <font size='3'>* co-first author</font>

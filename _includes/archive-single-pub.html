@@ -1,0 +1,54 @@
+{% include base_path %}
+{% if post.teaser %}
+  {% assign teaser = post.teaser %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<hr style="width:80%;text-align:left;margin-left:0">
+<div class="{{ include.type | default: "list" }}__item" style="font-size: 20px;">
+
+    <div class="archive__item-image">
+      <img src={% if teaser contains "://" %} "{{ teaser }}" {% else %} "{{ teaser | prepend: "/images/publications/" | prepend: base_path }}" {% endif %} alt="MISSING JPG">
+    </div>
+
+    <div class="archive__item-entry">
+
+        <p class="archive__item">
+            <b>
+            {{ title }}
+            </b><br>
+            {% if post.author %}
+              <font size='3'>{{ post.author }}</font><br>
+            {% endif %}
+
+            {% if post.conf %}
+              <font size='3'>{{ post.conf }}
+                {% if post.conf_shortname %} ({{ post.conf_shortname}}){% endif %}
+                , {{post.year}}</font><br>
+            {% endif %}
+
+            <span style="display: block; margin-top:4px">
+                {% if post.paperurl %}
+                  <a href="{{ post.paperurl }}" style="text-decoration:none">pdf</a>
+                {% endif %}
+                {% if post.pageurl %}
+                  <a href="{{ post.pageurl }}" style="text-decoration:none">website</a>
+                {% endif %}
+                {% if post.codeurl %}
+                  <a href="{{ post.codeurl }}" style="text-decoration:none">code</a>
+                {% endif %}
+            </span>
+
+        </p>
+
+    </div>
+
+
+</div>
