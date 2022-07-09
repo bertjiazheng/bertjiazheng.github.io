@@ -5,7 +5,7 @@ conf: European Conference on Computer Vision
 conf_shortname: ECCV
 year: 2020
 author: <b>Jia Zheng</b>*, Junfei Zhang*, Jing Li, Rui Tang, Shenghua Gao, Zihan Zhou
-teaser: http://localhost:4000/images/publications/structured3d.png
+teaser: Structured3D.png
 paperurl: https://arxiv.org/abs/1908.00222
 pageurl: https://structured3d-dataset.org/
 codeurl: https://github.com/bertjiazheng/Structured3D
