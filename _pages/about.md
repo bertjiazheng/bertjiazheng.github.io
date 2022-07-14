@@ -18,10 +18,7 @@ News
 * **2022-02**: [Faceformer](https://manycore-research.github.io/faceformer/) is accepted to CVPR 2022. It is the first data-driven approach to identify face loops from a single line drawing.
 * **2021-10**: NonCuboidRoom is accepted to WACV 2022.
 * **2021-07**: The massive data synthesis platform, [MINERVAS](https://coohom.github.io/MINERVAS/), is online.
-* **2021-03**: Two papers are accepted to CVPR 2021.
 * **2020-07**: The [Structured3D dataset](https://structured3d-dataset.org) is accepted to ECCV 2020.
 * **2020-05**: We are organizing the [Holistic 3D Vision Challenges](https://holistic-3d.github.io/eccv20/challenge.html) including the general room layout estimation and street view plane detection. The winning teams will get a prize and an opportunity to present at the [Holistic Scene Structures for 3D Vision Workshop](https://holistic-3d.github.io/eccv20) at ECCV 2020.
-* **2020-02**: One paper is accepted to CVPR 2020.
 * **2019-08**: We release a large photo-realistic dataset, [Structured3D dataset](http://structured3d-dataset.org), for data-driven structured 3D reconstruction!
-* **2019-02**: Three papers are accepted to CVPR 2019.
 * **2017-07**: We get the second place of [WebVision Challenge](https://www.vision.ee.ethz.ch/webvision/2017/workshop.html) on Image Classification Task (Top University Team).
