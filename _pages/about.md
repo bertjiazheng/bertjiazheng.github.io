@@ -13,6 +13,7 @@ My research interests include computer vision and deep learning, especially in t
 
 News
 ======
+* **2022.08**: [MINERVAS](https://coohom.github.io/MINERVAS/) is conditionally accepted to Pacific Graphics 2022.
 * **2022.02**: [Faceformer](https://manycore-research.github.io/faceformer/) is accepted to CVPR 2022. It is the first data-driven approach to identify face loops from a single line drawing.
 * **2021.10**: NonCuboidRoom is accepted to WACV 2022.
 * **2021.07**: The massive data synthesis platform, [MINERVAS](https://coohom.github.io/MINERVAS/), is online.
