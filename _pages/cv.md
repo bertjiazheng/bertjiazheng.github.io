@@ -21,7 +21,7 @@ Employment
 Education
 ======
 * M.S., ShanghaiTech University & University of Chinese Academy of Sciences, 2016--2020
-  * Advisor: Prof. Shenghua Gao
+  * Advisor: Dr. Shenghua Gao and Dr. Yi Ma
 * B.E., Northwestern Polytechnical University, 2012--2016
 
 Teaching Experience
