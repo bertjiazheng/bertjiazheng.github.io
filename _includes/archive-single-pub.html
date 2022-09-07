@@ -35,11 +35,11 @@
             {% endif %}
 
             <span style="display: block; margin-top:4px">
-                {% if post.paperurl %}
-                  <a href="{{ post.paperurl }}" style="text-decoration:none">pdf</a>
-                {% endif %}
                 {% if post.pageurl %}
                   <a href="{{ post.pageurl }}" style="text-decoration:none">website</a>
+                {% endif %}
+                {% if post.paperurl %}
+                  <a href="{{ post.paperurl }}" style="text-decoration:none">pdf</a>
                 {% endif %}
                 {% if post.codeurl %}
                   <a href="{{ post.codeurl }}" style="text-decoration:none">code</a>
