@@ -13,7 +13,7 @@ I have gotten to work with some wonderful collaborators.
 
 * Interns 2022
     * Wentao Hu, SYSU
-    * [Zhuoxuan Peng](https://github.com/Shimmer93), HKUST
+    * [Zhuoxuan Peng](https://shimmer93.github.io/pzx/), HKUST
     * Xiaoyang Hou, UCAS
 * Interns 2021
     * Xiaokai Chen, CUHK (Shenzhen)
