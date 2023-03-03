@@ -37,7 +37,7 @@ Community Service
 
 * Conference Reviewer
   * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2020--2023
-  * IEEE/CVF Conference on Computer Vision (ICCV): 2019, 2021
+  * IEEE/CVF Conference on Computer Vision (ICCV): 2019--2023
   * European Conference on Computer Vision (ECCV): 2020, 2022
   * ACM SIGGRAPH: 2022
   * IEEE/CVF Winter Conference on Applications of Computer Vision (WACV): 2022, 2023
