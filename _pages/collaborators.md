@@ -11,6 +11,8 @@ I have gotten to work with some wonderful collaborators.
 
 ### Manycore Tech Inc.
 
+* Ruipeng Sun, NUS
+* Changjie Qiu, XMU
 * [Wentao Hu](https://github.com/Huenao), SYSU
 * [Zhuoxuan Peng](https://shimmer93.github.io/pzx/), HKUST
 * Xiaoyang Hou, UCAS
