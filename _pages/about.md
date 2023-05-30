@@ -9,6 +9,6 @@ redirect_from:
 
 I am currently an engineer and researcher at [Manycore Tech Inc.](https://www.kujiale.com/), where I work with [Dr. Zihan Zhou](https://zihan-z.github.io/). My research interests include computer vision and deep learning, especially in 3D vision.
 
-I obtained my master's degree from [ShanghaiTech University](http://www.shanghaitech.edu.cn/) (A newly established university in 2013) and [University of Chinese Academy of Sciences](https://www.ucas.edu.cn/). Before that, I received my bachelor's degree from [Northwestern Polytechnical University](http://www.nwpu.edu.cn). I have also been very fortunate enough to work with [Dr. Shenghua Gao](https://sist.shanghaitech.edu.cn/sist_en/2020/0814/c7582a54772/page.htm) and [Dr. Yi Ma](https://people.eecs.berkeley.edu/~yima/) at ShanghaiTech University.
+I obtained my master's degree from [ShanghaiTech University](http://www.shanghaitech.edu.cn/) (A newly established university in 2013) and [University of Chinese Academy of Sciences](https://www.ucas.edu.cn/). Before that, I received my bachelor's degree from [Northwestern Polytechnical University](http://www.nwpu.edu.cn). I have also been very fortunate enough to work with [Dr. Shenghua Gao](https://sist.shanghaitech.edu.cn/gaoshh) and [Dr. Yi Ma](https://people.eecs.berkeley.edu/~yima/) at ShanghaiTech University.
 
 I am looking for self-motivated interns, feel free to email me with your CV if interested!
