@@ -9,8 +9,9 @@ author_profile: true
 
 I have gotten to work with some wonderful collaborators.
 
-### Manycore Tech Inc.
+### Interns
 
+* Sirui Liu, WHU
 * Ruipeng Sun, NUS
 * Changjie Qiu, XMU
 * [Wentao Hu](https://github.com/Huenao), SYSU
