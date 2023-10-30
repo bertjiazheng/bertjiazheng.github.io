@@ -36,9 +36,9 @@ Community Service
   * [Holistic Scene Structures for 3D Vision Workshop](https://holistic-3d.github.io/eccv20) at ECCV 2020
 
 * Conference Reviewer
-  * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2020--2023
+  * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2020--2024
   * IEEE/CVF Conference on Computer Vision (ICCV): 2019--2023
-  * European Conference on Computer Vision (ECCV): 2020, 2022
+  * European Conference on Computer Vision (ECCV): 2020--2024
   * ACM SIGGRAPH: 2022
   * IEEE/CVF Winter Conference on Applications of Computer Vision (WACV): 2022, 2023
   * International Conference on 3D Vision (3DV): 2022
