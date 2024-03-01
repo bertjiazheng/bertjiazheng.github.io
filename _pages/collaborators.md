@@ -11,6 +11,7 @@ I have gotten to work with some wonderful collaborators.
 
 ### Interns
 
+* Xilin Wang, BUAA
 * Yuan Cao, ZJU
 * Sirui Liu, WHU
 * Ruipeng Sun, NUS
