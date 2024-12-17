@@ -1,5 +1,13 @@
 main:
 
+  - title: "From 2D CAD Drawings to 3D Parametric Models: A Vision-Language Approach"
+    authors: Xilin Wang<sup>*</sup>, <b>Jia Zheng</b><sup>*</sup>, Yuanchao Hu, Hao Zhu, Yu Qian, Zihan Zhou
+    conference: AAAI Conference on Artificial Intelligence, 2025
+    conference_short: AAAI
+    image: ./assets/img/CAD2Program.gif
+    page: https://manycore-research.github.io/CAD2Program
+    pdf: https://arxiv.org/abs/2412.11892
+
   - title: "PlankAssembly: Robust 3D Reconstruction from Three Orthographic Views with Learnt Shape Programs"
     authors: Wentao Hu<sup>*</sup>, <b>Jia Zheng</b><sup>*</sup>, Zixin Zhang<sup>*</sup>, Xiaojun Yuan, Jian Yin, Zihan Zhou
     conference: IEEE/CVF International Conference on Computer Vision, 2023
@@ -14,16 +22,16 @@ main:
     conference: arXiv preprint, 2022
     conference_short: Preprint
     image: ./assets/img/cstr.png
-    pdf: https://arxiv.org/abs/2209.02692
     page: https://manycore-research.github.io/cstr
+    pdf: https://arxiv.org/abs/2209.02692
 
   - title: "MINERVAS: Massive INterior EnviRonments VirtuAl Synthesis"
+    authors: Haocheng Ren<sup>*</sup>, Hao Zhang<sup>*</sup>, <b>Jia Zheng</b>, Jiaxiang Zheng, Rui Tang, Yuchi Huo, Hujun Bao, Rui Wang
     conference: Computer Graphics Forum (Speical Issue of Pacific Graphics), 2022
     conference_short: PG
-    authors: Haocheng Ren<sup>*</sup>, Hao Zhang<sup>*</sup>, <b>Jia Zheng</b>, Jiaxiang Zheng, Rui Tang, Yuchi Huo, Hujun Bao, Rui Wang
     image: ./assets/img/MINERVAS.gif
-    pdf: https://arxiv.org/abs/2107.06149
     page: https://coohom.github.io/MINERVAS/
+    pdf: https://arxiv.org/abs/2107.06149
 
   - title: "Neural Face Identification in a 2D Wireframe Projection of a Manifold Object"
     authors: Kehan Wang, <b>Jia Zheng</b>, Zihan Zhou
@@ -47,8 +55,8 @@ main:
     conference: European Conference on Computer Vision, 2020
     conference_short: ECCV
     image: ./assets/img/Structured3D.png
-    pdf: https://arxiv.org/abs/1908.00222
     page: https://structured3d-dataset.org/
+    pdf: https://arxiv.org/abs/1908.00222
     code: https://github.com/bertjiazheng/Structured3D
 
   - title: "PPGNet: Learning Point-Pair Graph for Line Segment Detection"
