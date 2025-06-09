@@ -2,13 +2,14 @@
 title: Jia Zheng
 position: Research Engineer
 affiliation: Manycore Tech Inc.
+affiliation_link: https://www.manycoretech.com/
 email: jiajia@qunhemail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Jia Zheng's Homepage
+description: Jia Zheng is a Research Engineer at Manycore Tech Inc.
+canonical: https://bertjiazheng.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.

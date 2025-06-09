@@ -1,10 +1,18 @@
 main:
 
+  - title: "From 2D CAD Drawings to 3D Parametric Models: A Vision-Language Approach"
+    authors: Xilin Wang<sup>*</sup>, <b>Jia Zheng</b><sup>*</sup>, Yuanchao Hu, Hao Zhu, Yu Qian, Zihan Zhou
+    conference: AAAI Conference on Artificial Intelligence, 2025
+    conference_short: AAAI
+    image: ./assets/img/CAD2Program.gif
+    page: https://manycore-research.github.io/CAD2Program
+    pdf: https://arxiv.org/abs/2412.11892
+
   - title: "PlankAssembly: Robust 3D Reconstruction from Three Orthographic Views with Learnt Shape Programs"
     authors: Wentao Hu<sup>*</sup>, <b>Jia Zheng</b><sup>*</sup>, Zixin Zhang<sup>*</sup>, Xiaojun Yuan, Jian Yin, Zihan Zhou
     conference: IEEE/CVF International Conference on Computer Vision, 2023
     conference_short: ICCV
-    image: ./assets/publications/PlankAssembly.gif
+    image: ./assets/img/PlankAssembly.gif
     page: https://manycore-research.github.io/PlankAssembly
     pdf: https://arxiv.org/abs/2308.05744
     code: https://github.com/manycore-research/PlankAssembly
@@ -13,23 +21,23 @@ main:
     authors: <b>Jia Zheng</b>, Yifan Zhu, Kehan Wang, Qiang Zou, Zihan Zhou
     conference: arXiv preprint, 2022
     conference_short: Preprint
-    image: ./assets/publications/cstr.png
-    pdf: https://arxiv.org/abs/2209.02692
+    image: ./assets/img/cstr.png
     page: https://manycore-research.github.io/cstr
+    pdf: https://arxiv.org/abs/2209.02692
 
   - title: "MINERVAS: Massive INterior EnviRonments VirtuAl Synthesis"
+    authors: Haocheng Ren<sup>*</sup>, Hao Zhang<sup>*</sup>, <b>Jia Zheng</b>, Jiaxiang Zheng, Rui Tang, Yuchi Huo, Hujun Bao, Rui Wang
     conference: Computer Graphics Forum (Speical Issue of Pacific Graphics), 2022
     conference_short: PG
-    authors: Haocheng Ren<sup>*</sup>, Hao Zhang<sup>*</sup>, <b>Jia Zheng</b>, Jiaxiang Zheng, Rui Tang, Yuchi Huo, Hujun Bao, Rui Wang
-    image: ./assets/publications/MINERVAS.gif
-    pdf: https://arxiv.org/abs/2107.06149
+    image: ./assets/img/MINERVAS.gif
     page: https://coohom.github.io/MINERVAS/
+    pdf: https://arxiv.org/abs/2107.06149
 
   - title: "Neural Face Identification in a 2D Wireframe Projection of a Manifold Object"
     authors: Kehan Wang, <b>Jia Zheng</b>, Zihan Zhou
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022
     conference_short: CVPR
-    image: ./assets/publications/faceformer.png
+    image: ./assets/img/faceformer.png
     page: https://manycore-research.github.io/faceformer
     pdf: https://arxiv.org/abs/2203.04229
     code: https://github.com/manycore-research/faceformer
@@ -38,7 +46,7 @@ main:
     authors: Cheng Yang<sup>*</sup>, <b>Jia Zheng</b><sup>*</sup>, Xili Dai, Rui Tang, Yi Ma, Xiaojun Yuan
     conference: IEEE/CVF Winter Conference on Applications of Computer Vision, 2022
     conference_short: WACV
-    image: ./assets/publications/NonCuboidRoom.gif
+    image: ./assets/img/NonCuboidRoom.gif
     pdf: https://arxiv.org/abs/2104.07986
     code: https://github.com/Cyang0515/NonCuboidRoom
 
@@ -46,16 +54,16 @@ main:
     authors: <b>Jia Zheng</b><sup>*</sup>, Junfei Zhang<sup>*</sup>, Jing Li, Rui Tang, Shenghua Gao, Zihan Zhou
     conference: European Conference on Computer Vision, 2020
     conference_short: ECCV
-    image: ./assets/publications/Structured3D.png
-    pdf: https://arxiv.org/abs/1908.00222
+    image: ./assets/img/Structured3D.png
     page: https://structured3d-dataset.org/
+    pdf: https://arxiv.org/abs/1908.00222
     code: https://github.com/bertjiazheng/Structured3D
 
   - title: "PPGNet: Learning Point-Pair Graph for Line Segment Detection"
     authors: Ziheng Zhang<sup>*</sup>, Zhengxin Li<sup>*</sup>, Ning Bi, <b>Jia Zheng</b>, Jinlei Wang, Kun Huang, Weixin Luo, Yanyu Xu, Shenghua Gao
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2019
     conference_short: CVPR
-    image: ./assets/publications/PPGNet.png
+    image: ./assets/img/PPGNet.png
     pdf: https://arxiv.org/abs/1905.03415
     code: https://github.com/svip-lab/PPGNet
 
@@ -63,6 +71,6 @@ main:
     authors: Zehao Yu<sup>*</sup>, <strong>Jia Zheng</strong><sup>*</sup>, Dongze Lian, Zihan Zhou, Shenghua Gao
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2019
     conference_short: CVPR
-    image: ./assets/publications/PlaneAE.png
+    image: ./assets/img/PlaneAE.png
     pdf: https://arxiv.org/abs/1902.09777
     code: https://github.com/svip-lab/PlanarReconstruction
