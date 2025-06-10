@@ -1,5 +1,13 @@
 main:
 
+  - title: "SpatialLM: Training Large Language Models for Structured Indoor Modeling"
+    authors: Yongsen Mao<sup>*</sup>, Junhao Zhong<sup>*</sup>, Chuan Fang, <b>Jia Zheng</b>, Rui Tang, Hao Zhu, Ping Tan, Zihan Zhou
+    conference: arXiv preprint, 2025
+    conference_short: Preprint
+    image: https://manycore-research-azure.kujiale.com/manycore-research/SpatialLM/teaser.gif
+    page: https://manycore-research.github.io/SpatialLM
+    pdf: https://arxiv.org/abs/2506.07491
+
   - title: "From 2D CAD Drawings to 3D Parametric Models: A Vision-Language Approach"
     authors: Xilin Wang<sup>*</sup>, <b>Jia Zheng</b><sup>*</sup>, Yuanchao Hu, Hao Zhu, Yu Qian, Zihan Zhou
     conference: AAAI Conference on Artificial Intelligence, 2025
