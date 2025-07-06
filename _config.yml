@@ -7,8 +7,8 @@ email: jiajia@qunhemail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Jia Zheng's Homepage
-description: Jia Zheng is a Research Engineer at Manycore Tech Inc.
+keywords: Jia Zheng, Computer Vision, Machine Learning, Spatial Intelligence, Deep Learning
+description: Jia Zheng is a Research Engineer at Manycore Tech Inc. specializing in spatial intelligence.
 canonical: https://bertjiazheng.github.io/
 
 # Links 
@@ -21,8 +21,8 @@ twitter: https://twitter.com/bertjiazheng
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/avatar.jpg
-# favicon: ./assets/img/favicon.png
-# favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."

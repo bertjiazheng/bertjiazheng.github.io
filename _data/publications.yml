@@ -35,7 +35,7 @@ main:
 
   - title: "MINERVAS: Massive INterior EnviRonments VirtuAl Synthesis"
     authors: Haocheng Ren<sup>*</sup>, Hao Zhang<sup>*</sup>, <b>Jia Zheng</b>, Jiaxiang Zheng, Rui Tang, Yuchi Huo, Hujun Bao, Rui Wang
-    conference: Computer Graphics Forum (Speical Issue of Pacific Graphics), 2022
+    conference: Computer Graphics Forum (Special Issue of Pacific Graphics), 2022
     conference_short: PG
     image: ./assets/img/MINERVAS.gif
     page: https://coohom.github.io/MINERVAS/
