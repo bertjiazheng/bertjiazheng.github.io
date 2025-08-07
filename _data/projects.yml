@@ -1,0 +1,6 @@
+main:
+
+  - title: "KoolCogVideoX"
+    description: "A specialized version of CogVideoX text-to-video model, fine-tuned for enhanced performance in generating realistic and stylistically accurate interior design videos"
+    image: ./assets/img/KoolCogVideoX.gif
+    page: https://huggingface.co/bertjiazheng/KoolCogVideoX-5b/

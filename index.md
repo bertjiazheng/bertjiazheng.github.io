@@ -11,3 +11,5 @@ I obtained my Master's degree from [ShanghaiTech University](http://www.shanghai
 I am actively looking for self-motivated interns who are passionate about advancing the frontiers of spatial intelligence. If you're interested in working on innovative AI research and share this vision, feel free to reach out via email.
 
 {% include_relative _includes/publications.md %}
+
+{% include_relative _includes/projects.md %}
