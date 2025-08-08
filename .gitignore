@@ -1,4 +1,5 @@
-_site
+html_source_file/
+_site/
 .sass-cache
 Gemfile.lock
 *.gem

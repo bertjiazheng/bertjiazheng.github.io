@@ -33,110 +33,16 @@
       }
      */
 
-.icon-button{
-  background-color:white;
-  border-radius:3.6rem;
-  cursor:pointer;
-  display:inline-block;
-  font-size:2.0rem;
-  height:3.6rem;
-  line-height:3.6rem;
-  margin:0 5px;
-  position:relative;
-  text-align:center;
-  -webkit-user-select:none;
-  -moz-user-select:none;
-  -ms-user-select:none;
-  user-select:none;width:3.6rem}
-
-.icon-button span{
-  border-radius:0;
-  display:block;
-  height:0;
-  left:50%;
-  margin:0;
-  position:absolute;
-  top:50%;
-  -webkit-transition:all 0.3s;
-  -moz-transition:all 0.3s;
-  -o-transition:all 0.3s;
-  transition:all 0.3s;
-  width:0}
-
-.icon-button:hover span{
-  width:3.6rem;
-  height:3.6rem;
-  border-radius:3.6rem;
-  margin:-1.8rem}
-
-.twitter span{
-  background-color:#4099ff}
-
-.facebook span{
-  background-color:#4286f4}
-
-.linkedin span{
-  background-color:#0077B5}
-
-.github span{
-  background-color:#000}
-
-email {
+.email {
     font-size: 14px;
     font-family: "Ubuntu Mono";
 }
 
-.icon-button i{
-  background:none;
-  color:white;
-  height:3.6rem;
-  left:0;
-  line-height:3.6rem;
-  position:absolute;
-  top:0;
-  -webkit-transition:all 0.3s;
-  -moz-transition:all 0.3s;
-  -o-transition:all 0.3s;
-  transition:all 0.3s;
-  width:3.6rem;
-  z-index:10}
-
-.icon-button .icon-twitter{
-  color:#4099ff}
-
-.icon-button .icon-facebook{
-  color:#4286f4}
-
-.icon-button .icon-github{
-  color:#000;}
-
-.icon-button .icon-linkedin{
-  color:#0077B5}
-
-.icon-button:hover .icon-twitter,.icon-button:hover .icon-facebook,.icon-button:hover .icon-github,.icon-button:hover .icon-linkedin{color:white}
-
-autocolor{
+.autocolor{
   color:#595959;
 }
 
-lightonly {
-  visibility: visible;
-}
-
-darkonly {
-  visibility: hidden;
-}
-
-education {
-    font-weight: 500;
-    font-size: 115%;
-  }
-papertitle {
-    font-weight: 600;
-    font-size: 100%;
-  }
-
-  .image {
+.image {
     border-radius: 0.35em;
     border: 0;
     display: inline-block;
@@ -424,14 +330,7 @@ footer {
         width: 117px;
         padding:20px;
       }
-  #head1o2 {
-    visibility: hidden;
-  }
       
-  #head2o2 {
-    visibility: hidden;
-  }
-  
 }
 
 @media print, screen and (max-width: 960px) {
@@ -446,10 +345,6 @@ footer {
 
   header {
     padding:0;
-  }
-
-  header ul, header p.view {
-    
   }
 
   pre, code {
@@ -480,14 +375,6 @@ footer {
       width: 95px;
       padding:20px;
   }
-  #head1o2 {
-    visibility: hidden;
-  }
-  
-  #head2o2 {
-    visibility: hidden;
-  }
-
 }
 
 @media print {
