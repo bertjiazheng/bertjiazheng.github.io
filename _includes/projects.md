@@ -15,6 +15,11 @@
   <div class="col-sm-9">
     <div class="title"><a href="{{ link.page }}">{{ link.title }}</a></div>
     <div class="author">{{ link.description }}</div>
+    <div class="links">
+      {% if link.model %} 
+      <a href="{{ link.model }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Model</a>
+      {% endif %}
+    </div>
   </div>
 </div>
 </li>
