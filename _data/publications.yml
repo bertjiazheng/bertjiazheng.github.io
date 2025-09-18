@@ -2,7 +2,7 @@ main:
 
   - title: "SpatialLM: Training Large Language Models for Structured Indoor Modeling"
     authors: Yongsen Mao<sup>*</sup>, Junhao Zhong<sup>*</sup>, Chuan Fang, <b>Jia Zheng</b>, Rui Tang, Hao Zhu, Ping Tan, Zihan Zhou
-    conference: arXiv preprint, 2025
+    conference: Conference on Neural Information Processing Systems, 2025
     image: ./assets/img/SpatialLM.gif
     page: https://manycore-research.github.io/SpatialLM
     pdf: https://arxiv.org/abs/2506.07491
