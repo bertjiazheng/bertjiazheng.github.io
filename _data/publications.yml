@@ -1,5 +1,12 @@
 main:
 
+  - title: "SpatialGen: Layout-guided 3D Indoor Scene Generation"
+    authors: Chuan Fang, Heng Li, Yixun Liang, <b>Jia Zheng</b>, Yongsen Mao, Yuan Liu, Rui Tang, Zihan Zhou, Ping Tan 
+    conference: arXiv preprint, 2025
+    image: ./assets/img/SpatialGen.gif
+    page: https://manycore-research.github.io/SpatialGen
+    pdf: https://arxiv.org/abs/2509.14981
+
   - title: "SpatialLM: Training Large Language Models for Structured Indoor Modeling"
     authors: Yongsen Mao<sup>*</sup>, Junhao Zhong<sup>*</sup>, Chuan Fang, <b>Jia Zheng</b>, Rui Tang, Hao Zhu, Ping Tan, Zihan Zhou
     conference: Conference on Neural Information Processing Systems, 2025
