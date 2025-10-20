@@ -1,7 +1,19 @@
 main:
 
+  - title: "FLUX.1-Panorama-Lora"
+    description: "FLUX.1 LoRAs for generating high-quality panoramic images focusing on realistic interior design scenes"
+    image: ./assets/img/panorama.gif
+    page: https://huggingface.co/collections/manycore-research/flux1-panorama-lora-68f0d8cfcd7c04f6ba0226e1
+    model: https://huggingface.co/collections/manycore-research/flux1-panorama-lora-68f0d8cfcd7c04f6ba0226e1
+
+  - title: "FLUX.1-Wireframe-dev-lora"
+    description: "FLUX.1 LoRA for generating images based on a text description and wireframe input"
+    image: ./assets/img/wireframe.gif
+    page: https://huggingface.co/manycore-research/FLUX.1-Wireframe-dev-lora
+    model: https://huggingface.co/manycore-research/FLUX.1-Wireframe-dev-lora
+
   - title: "KoolCogVideoX"
-    description: "A specialized version of CogVideoX text-to-video model, fine-tuned for enhanced performance in generating realistic and stylistically accurate interior design videos"
+    description: "Fine-tuned CogVideoX text-to-video model for enhanced performance in generating realistic interior design videos"
     image: ./assets/img/KoolCogVideoX.gif
     page: https://huggingface.co/bertjiazheng/KoolCogVideoX-5b/
     model: https://huggingface.co/bertjiazheng/KoolCogVideoX-5b
