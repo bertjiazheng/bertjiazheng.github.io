@@ -1,8 +1,13 @@
-html_source_file/
-_site/
-.sass-cache
-Gemfile.lock
-*.gem
+# macOS system files
 .DS_Store
+
+# Jekyll build output
+_site
+
+# Ruby/Bundler
+.bundle
+Gemfile.lock
+
+# Jekyll caches (safe to ignore; speeds up local builds)
+.sass-cache
 .jekyll-cache
-git-update.sh

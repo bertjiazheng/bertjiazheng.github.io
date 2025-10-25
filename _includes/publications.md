@@ -9,7 +9,7 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr">
     {% if link.image %} 
-      <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" alt="{{ link.title }} teaser">
+      <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" alt="{{ link.title }} teaser" loading="lazy">
     {% endif %}
   </div>
   <div class="col-sm-9">
