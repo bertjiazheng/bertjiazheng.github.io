@@ -2,7 +2,7 @@ main:
 
   - title: "SpatialGen: Layout-guided 3D Indoor Scene Generation"
     authors: Chuan Fang, Heng Li, Yixun Liang, <b>Jia Zheng</b>, Yongsen Mao, Yuan Liu, Rui Tang, Zihan Zhou, Ping Tan 
-    conference: arXiv preprint, 2025
+    conference: International Conference on 3D Vision, 2026
     image: ./assets/img/SpatialGen.gif
     page: https://manycore-research.github.io/SpatialGen
     pdf: https://arxiv.org/abs/2509.14981
